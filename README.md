@@ -45,3 +45,8 @@ TP Computación Aplicada Cuatrimestre-1-2025
 
 > En caso de recibir la clave oficial proporcionada por la cátedra, bastará con reemplazar el contenido del archivo `authorized_keys`.
 
+> Instalación de Apache de acuerdo a la docuementación actual (6/5/2025) [aquí](https://www.php.net/manual/en/install.unix.debian.php):
+```
+apt install php-common libapache2-mod-php php-cli
+``` 
+
