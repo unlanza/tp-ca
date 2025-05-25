@@ -1,5 +1,9 @@
 # tp-ca
 TP Computación Aplicada Cuatrimestre-1-2025
+Integrantes:
+Josefina
+Ariadna Quintero
+Tobias Aballay
 
 ## Avances
 
